@@ -1,0 +1,10 @@
+C:\Users\Luis\documents\visual studio 2010\Projects\AutoSW_GUI\AutoSW_GUI\bin\Debug\AutoSW_GUI.exe
+C:\Users\Luis\documents\visual studio 2010\Projects\AutoSW_GUI\AutoSW_GUI\bin\Debug\AutoSW_GUI.pdb
+C:\Users\Luis\documents\visual studio 2010\Projects\AutoSW_GUI\AutoSW_GUI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Luis\documents\visual studio 2010\Projects\AutoSW_GUI\AutoSW_GUI\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Luis\documents\visual studio 2010\Projects\AutoSW_GUI\AutoSW_GUI\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Luis\documents\visual studio 2010\Projects\AutoSW_GUI\AutoSW_GUI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Luis\documents\visual studio 2010\Projects\AutoSW_GUI\AutoSW_GUI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Luis\documents\visual studio 2010\Projects\AutoSW_GUI\AutoSW_GUI\obj\x86\Debug\AutoSW_GUI.exe
+C:\Users\Luis\documents\visual studio 2010\Projects\AutoSW_GUI\AutoSW_GUI\obj\x86\Debug\AutoSW_GUI.pdb
+C:\Users\Luis\documents\visual studio 2010\Projects\AutoSW_GUI\AutoSW_GUI\bin\Debug\EASendMail40.dll

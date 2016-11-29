@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoSW_GUI", "AutoSW_GUI\AutoSW_GUI.csproj", "{FAE02D82-9817-4FE4-97F6-E61B0645B804}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FAE02D82-9817-4FE4-97F6-E61B0645B804}.Debug|x86.ActiveCfg = Debug|x86
+		{FAE02D82-9817-4FE4-97F6-E61B0645B804}.Debug|x86.Build.0 = Debug|x86
+		{FAE02D82-9817-4FE4-97F6-E61B0645B804}.Release|x86.ActiveCfg = Release|x86
+		{FAE02D82-9817-4FE4-97F6-E61B0645B804}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
