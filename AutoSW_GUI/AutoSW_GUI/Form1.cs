@@ -606,7 +606,7 @@ namespace WindowsFormsApplication1{
                         smtp.Port = 587;
                         smtp.EnableSsl = true;
                         smtp.DeliveryMethod = MyMail.SmtpDeliveryMethod.Network;
-                        smtp.Credentials = new System.Net.NetworkCredential("poncenavarroluisfelipe@gmail.com", "Luisfeponna1");
+                        smtp.Credentials = new System.Net.NetworkCredential("poncenavarroluisfelipe@gmail.com", "psw");
                         smtp.DeliveryMethod = MyMail.SmtpDeliveryMethod.Network;
                         
                         conn.Open();
